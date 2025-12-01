@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "HOWEVER",
+  "base_artist": "GLAY",
+  "createdAt": "2025-12-01T21:21:29.469778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "However You Want It",
+      "artist": "Wyclef Jean",
+      "has_synced": false,
+      "path": "select/01_However_You_Want_It_Wyclef_Jean.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back To Life (However Do You Want Me) - Club Mix",
+      "artist": "Soul II Soul feat. Caron Wheeler",
+      "has_synced": false,
+      "path": "select/02_Back_To_Life_(However_Do_You_Want_Me)_-_Club_Mix_Soul_II_Soul_feat._Caron_Wheeler.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Back to Life (However Do You Want Me) [feat. Caron Wheeler]",
+      "artist": "Soul II Soul feat. Caron Wheeler",
+      "has_synced": true,
+      "path": "select/03_Back_to_Life_(However_Do_You_Want_Me)_[feat._Caron_Wheeler]_Soul_II_Soul_feat._Caron_Wheeler.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Back To Life (However Do You Want Me) (feat. Caron Wheeler)",
+      "artist": "Soul II Soul",
+      "has_synced": true,
+      "path": "select/04_Back_To_Life_(However_Do_You_Want_Me)_(feat._Caron_Wheeler)_Soul_II_Soul.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "However You Look at It You Lose",
+      "artist": "Tiamat",
+      "has_synced": true,
+      "path": "select/05_However_You_Look_at_It_You_Lose_Tiamat.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "However Much I Booze",
+      "artist": "The Who",
+      "has_synced": true,
+      "path": "select/06_However_Much_I_Booze_The_Who.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "However It May End",
+      "artist": "Prong",
+      "has_synced": false,
+      "path": "select/07_However_It_May_End_Prong.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Back To Life (However Do You Want Me)",
+      "artist": "Soul II Soul, Caron Wheeler",
+      "has_synced": true,
+      "path": "select/08_Back_To_Life_(However_Do_You_Want_Me)_Soul_II_Soul,_Caron_Wheeler.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back To Life (However Do You Want Me)",
+      "artist": "Soul II Soul",
+      "has_synced": false,
+      "path": "select/09_Back_To_Life_(However_Do_You_Want_Me)_Soul_II_Soul.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "0722 - Soul II Soul - Back To Life (However Do You Want Me)",
+      "artist": "Soul II Soul",
+      "has_synced": false,
+      "path": "select/10_0722_-_Soul_II_Soul_-_Back_To_Life_(However_Do_You_Want_Me)_Soul_II_Soul.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Back to Life (However Do You Want Me) (club mix)",
+      "artist": "Soul II Soul",
+      "has_synced": false,
+      "path": "select/11_Back_to_Life_(However_Do_You_Want_Me)_(club_mix)_Soul_II_Soul.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "However You Want It Said",
+      "artist": "Beartooth",
+      "has_synced": true,
+      "path": "select/12_However_You_Want_It_Said_Beartooth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back to Life (However Do You Want Me)",
+      "artist": "Soul II Soul Feat. Caron Wheeler",
+      "has_synced": true,
+      "path": "select/13_Back_to_Life_(However_Do_You_Want_Me)_Soul_II_Soul_Feat._Caron_Wheeler.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "However Absurd",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/14_However_Absurd_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Back To Life (However Do You Want Me)",
+      "artist": "Soul II Soul ft. Caron Wheeler",
+      "has_synced": true,
+      "path": "select/15_Back_To_Life_(However_Do_You_Want_Me)_Soul_II_Soul_ft._Caron_Wheeler.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Back To Life (However Do You Want Me)",
+      "artist": "Soul II Soul",
+      "has_synced": true,
+      "path": "select/16_Back_To_Life_(However_Do_You_Want_Me)_Soul_II_Soul.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Back To Life (However Do You Want Me)",
+      "artist": "Soul II Soul, Caron Wheeler",
+      "has_synced": true,
+      "path": "select/17_Back_To_Life_(However_Do_You_Want_Me)_Soul_II_Soul,_Caron_Wheeler.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOWEVER (inspired by HIGHCOMMUNICATIONS)",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_01_HOWEVER_(inspired_by_HIGHCOMMUNICATIONS)_GLAY.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "However",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_02_However_GLAY.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "HOWEVER",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_03_HOWEVER_GLAY.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "HOWEVER",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_04_HOWEVER_GLAY.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "HOWEVER",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_05_HOWEVER_GLAY.txt"
+    }
+  ]
+}
